@@ -1,2 +1,2 @@
-# Puppy-Modeling
+# Puppy-Modeling-Rig-Animation
 outsourcing
