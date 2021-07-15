@@ -1,2 +1,2 @@
-# Puppy-Modeling-Rig-Animation
-outsourcing
+# Puppy-Modeling-Rig-Animation 
+공유용 
